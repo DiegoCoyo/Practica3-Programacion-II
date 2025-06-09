@@ -1,0 +1,46 @@
+[
+    {
+        "nombreFarmacia": "Farmacia San Pedro",
+        "sucursal": 1,
+        "direccion": "Calle Pedregal",
+        "medicamentos": [
+            {
+                "nombre": "Golpex",
+                "codMedicamento": 11,
+                "tipo": "Dolor",
+                "precio": 3.5
+            },
+            {
+                "nombre": "Inyeccion",
+                "codMedicamento": 12,
+                "tipo": "Resfrio",
+                "precio": 5.6
+            },
+            {
+                "nombre": "Antigripal",
+                "codMedicamento": 13,
+                "tipo": "Resfrio",
+                "precio": 2.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia UMSA",
+        "sucursal": 2,
+        "direccion": "Calle Hernan Siles",
+        "medicamentos": [
+            {
+                "nombre": "Golpex",
+                "codMedicamento": 14,
+                "tipo": "Dolor",
+                "precio": 3.5
+            },
+            {
+                "nombre": "Paracetamol",
+                "codMedicamento": 17,
+                "tipo": "Dolor",
+                "precio": 2.0
+            }
+        ]
+    }
+]
